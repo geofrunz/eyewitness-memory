@@ -10,5 +10,5 @@ window.STUDY_CONFIG = {
     appId: "1:648461840872:web:9f10efcedd9a985b6fb45d",
     measurementId: "G-4QP3VPC0F9"
   },
-  instructorUid: "REPLACE_WITH_INSTRUCTOR_UID"
+  instructorUid: "SAkiUc0AnjcZOtMU9PwwLzccTg72"
 };
